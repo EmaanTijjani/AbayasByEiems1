@@ -110,19 +110,38 @@ html {
 }
 
 .abaya-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
 }
 
 .abaya-card {
-  width: 300px;
-  text-align: center;
+    text-align: center;
 }
 
 .abaya-card img {
-  width: 100%;
+    width: 380px;
+    max-width: 90%;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+
+.abaya-card p {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.abaya-card button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
  
 
 
