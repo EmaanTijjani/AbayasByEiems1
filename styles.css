@@ -77,6 +77,22 @@ html {
   scroll-behavior: smooth;
 }
 
+.abaya-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.abaya-card {
+  width: 300px;
+  text-align: center;
+}
+
+.abaya-card img {
+  width: 100%;
+ 
+
 footer {
   margin-top: 50px;
   padding: 20px;
