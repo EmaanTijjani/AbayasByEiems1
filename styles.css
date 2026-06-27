@@ -8,6 +8,10 @@
     padding: 20px;
 }
 
+body {
+    background-color: beige;
+}
+
 h1 {
    font-family: "Brush Script MT", cursive;
    font-size: 50px;
