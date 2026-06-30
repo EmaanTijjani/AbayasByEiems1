@@ -56,6 +56,23 @@ img {
   font-size: 72px;
 }
 
+.verify-btn {
+  background-color: black;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.verify-btn:hover {
+  background-color: beige;
+  color: black;
+}
+
 button {
     background-color: black;
     color: white;
