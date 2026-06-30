@@ -73,6 +73,11 @@ img {
   color: black;
 }
 
+.verify-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
 button {
     background-color: black;
     color: white;
