@@ -196,6 +196,16 @@ footer {
   color: white;
 }
 
+video {
+  display: block;
+  margin: 0 auto 30px auto;
+}
+
+audio {
+  display: block;
+  margin: 30px auto;
+}
+
 footer a {
    color: white;
    margin: 10px;
