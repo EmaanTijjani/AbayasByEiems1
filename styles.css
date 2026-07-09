@@ -180,6 +180,14 @@ html {
     margin-bottom: 40px;
 }
 
+.video-container {
+  text-align: center;
+}
+
+.media-center {
+  text-align: center;
+}
+
 
 footer {
   margin-top: 50px;
